@@ -1,0 +1,27 @@
+@startuml
+title 基于GitHub的实验管理平台--选课的顺序图
+actor users as A
+hide footbox
+participant 登录界面 as B
+participant 选课界面  as C
+participant 课程 as D
+
+A->B:登录(用户名，密码)
+activate A
+deactivate A
+activate B
+B->C
+activate C
+deactivate B
+C->C:发出选课请求
+C->D:查询是否可选
+activate D
+D-->C:返回结果
+deactivate D
+deactivate C
+C->A:选课成功or失败
+activate C
+deactivate C
+activate A
+deactivate C
+@enduml
