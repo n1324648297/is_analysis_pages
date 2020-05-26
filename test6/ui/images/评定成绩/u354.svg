@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="70px" height="25px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="35" y1="0" x2="35" y2="25" id="LinearGradient29">
-      <stop id="Stop30" stop-color="#ffffff" offset="0" />
-      <stop id="Stop31" stop-color="#f5f5f5" offset="0.2" />
-      <stop id="Stop32" stop-color="#f0f0f0" offset="0.9" />
-      <stop id="Stop33" stop-color="#d2d2d2" offset="1" />
-      <stop id="Stop34" stop-color="#ffffff" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="35" y1="0" x2="35" y2="25" id="LinearGradient57">
+      <stop id="Stop58" stop-color="#ffffff" offset="0" />
+      <stop id="Stop59" stop-color="#f5f5f5" offset="0.2" />
+      <stop id="Stop60" stop-color="#f0f0f0" offset="0.9" />
+      <stop id="Stop61" stop-color="#d2d2d2" offset="1" />
+      <stop id="Stop62" stop-color="#ffffff" offset="1" />
     </linearGradient>
-    <mask fill="white" id="clip35">
+    <mask fill="white" id="clip63">
       <path d="M 0 21  L 0 4  C 0 1.75999999999999  1.76000000000001 0  4 0  L 41.2000000000007 0  L 66 0  C 68.24 0  70 1.75999999999999  70 4  L 70 21  C 70 23.24  68.24 25  66 25  L 4 25  C 1.76000000000001 25  0 23.24  0 21  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -77 -344 )">
-    <path d="M 0 21  L 0 4  C 0 1.75999999999999  1.76000000000001 0  4 0  L 41.2000000000007 0  L 66 0  C 68.24 0  70 1.75999999999999  70 4  L 70 21  C 70 23.24  68.24 25  66 25  L 4 25  C 1.76000000000001 25  0 23.24  0 21  Z " fill-rule="nonzero" fill="url(#LinearGradient29)" stroke="none" transform="matrix(1 0 0 1 77 344 )" />
-    <path d="M 0 21  L 0 4  C 0 1.75999999999999  1.76000000000001 0  4 0  L 41.2000000000007 0  L 66 0  C 68.24 0  70 1.75999999999999  70 4  L 70 21  C 70 23.24  68.24 25  66 25  L 4 25  C 1.76000000000001 25  0 23.24  0 21  Z " stroke-width="2" stroke="#797979" fill="none" transform="matrix(1 0 0 1 77 344 )" mask="url(#clip35)" />
+    <path d="M 0 21  L 0 4  C 0 1.75999999999999  1.76000000000001 0  4 0  L 41.2000000000007 0  L 66 0  C 68.24 0  70 1.75999999999999  70 4  L 70 21  C 70 23.24  68.24 25  66 25  L 4 25  C 1.76000000000001 25  0 23.24  0 21  Z " fill-rule="nonzero" fill="url(#LinearGradient57)" stroke="none" transform="matrix(1 0 0 1 77 344 )" />
+    <path d="M 0 21  L 0 4  C 0 1.75999999999999  1.76000000000001 0  4 0  L 41.2000000000007 0  L 66 0  C 68.24 0  70 1.75999999999999  70 4  L 70 21  C 70 23.24  68.24 25  66 25  L 4 25  C 1.76000000000001 25  0 23.24  0 21  Z " stroke-width="2" stroke="#797979" fill="none" transform="matrix(1 0 0 1 77 344 )" mask="url(#clip63)" />
   </g>
 </svg>
